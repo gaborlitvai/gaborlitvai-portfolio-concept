@@ -28,33 +28,21 @@ const Footer = () => {
         </ul>
 
         <div className="footer__social">
-          <a
-            href="https://www.instagram.com/"
-            className="footer__social-link"
-            target="_blank"
-          >
+          <a href="https://www.instagram.com/" className="footer__social-link">
             <i className="uil uil-instagram"></i>
           </a>
 
-          <a
-            href="https://behance.com/"
-            className="footer__social-link"
-            target="_blank"
-          >
+          <a href="https://behance.com/" className="footer__social-link">
             <i className="uil uil-behance-alt"></i>
           </a>
 
-          <a
-            href="https://github.com/"
-            className="footer__social-link"
-            target="_blank"
-          >
+          <a href="https://github.com/" className="footer__social-link">
             <i className="uil uil-github-alt"></i>
           </a>
         </div>
 
         <span className="footer__copy">
-            &#169; Gabor Litvai. All rights reserved.
+          &#169; Gabor Litvai. All rights reserved.
         </span>
       </div>
     </footer>
